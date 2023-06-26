@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Shraddha Chandurkar</h1>
 <h3 align="center">Get to know me on a personal and professional level. Learn about my passions, values, and the driving force behind my work. Discover how my unique background and interests shape my approach to problem-solving and creativity.</h3>
