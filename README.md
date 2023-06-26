@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Machine Learning, Python, SQL**
 
-- 📫 How to reach me **shraddhachandurkar6999@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/shraddha-chandurkar  ||  shraddhachandurkar6999@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1eob4h2t4XQ9def1iV9LbhYX_Ljk9pOy3/view?usp=sharing](https://drive.google.com/file/d/1eob4h2t4XQ9def1iV9LbhYX_Ljk9pOy3/view?usp=sharing)
 
