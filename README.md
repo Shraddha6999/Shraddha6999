@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shraddha Chandurkar</h1>
 <h3 align="center">Get to know me on a personal and professional level. Learn about my passions, values, and the driving force behind my work. Discover how my unique background and interests shape my approach to problem-solving and creativity.</h3>
-<img align="right" alt="Coding" width="350" src="https://github.com/Shraddha6999/Shraddha6999/assets/123643720/8c2d54fa-3b74-45f9-ac38-70ad86c8af93">
+<img align="right" alt="Coding" width="350" src="https://github.com/Shraddha6999/Shraddha6999/assets/123643720/60d8b2ce-6b5b-4c7d-95e0-744c60e15bb4">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddha6999&label=Profile%20views&color=0e75b6&style=flat" alt="shraddha6999" /> </p>
 
 - 🔭 I’m currently working **@ AlmaBetter**
